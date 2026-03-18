@@ -1,0 +1,70 @@
+<resources>
+    <!-- CREDENCIALES -->
+    <string name="app_name">EntregaModulo4</string>
+    <string name="developer">Cinthia Díaz</string>
+    <string name="desarrollo">Desarrollado por:</string>
+    <string name="version">Versión 1.0.0</string>
+
+    <!-- LOGGIN/SIGNUP -->
+    <string name="titulo_login_signup">El lugar mas seguro para tu dinero</string>
+    <string name="btn_crear_cuenta">Crear cuenta</string>
+    <string name="btn_ya_tienes_cuenta">Ya tiene cuenta?</string>
+
+    <!-- LOGGIN -->
+    <string name="titulo_loggin">Logea y empeza a tranferir!</string>
+    <string name="Email">Email</string>
+    <string name="lbl_email">Ingresar tu email</string>
+    <string name="Password">Contraseña</string>
+    <string name="lbl_password">Ingresar tu contraseña</string>
+    <string name="btn_login">Login</string>
+    <string name="Recovery">Olvidaste tu contraseña?</string>
+    <string name="btn_Crear">Crear una nueva cuenta</string>
+
+    <!-- SIGNUP -->
+    <string name="titulo_signup">Registrarse y empezar a transferir</string>
+    <string name="Nombre">Nombre</string>
+    <string name="lbl_nombre">Ingresar nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="lbl_apellido">Ingresar apellido</string>
+    <string name="Email">Email</string>
+    <string name="lbl_email">Ingresar email</string>
+    <string name="Password">Contraseña</string>
+    <string name="lbl_password">Ingresar contraseña</string>
+    <string name="Password2">Reingresar contraseña</string>
+    <string name="lbl_password2">Reingresar contraseña</string>
+    <string name="btn_crearcuenta">Crear cuenta</string>
+    <string name="btn_existe">Ya tienes una cuenta??</string>
+
+    <!-- MAIN -->
+    <string name="Home">Inicio</string>
+    <string name="Saludo">Hola, Amanda!</string>
+    <string name="Balance">Balance total</string>
+    <string name="Saldo">$124.50</string>
+    <string name="Enviar">Enviar dinero</string>
+    <string name="Recibir">Ingresar dinero</string>
+    <string name="Transacciones">Últimas transacciones</string>
+    <string name="NoHay">No hay transacciones registradas</string>
+
+    <!-- INGRESAR DINERO -->
+    <string name="titulo_ingresar">Ingresar Dinero</string>
+    <string name="cantidad_ingreso">Cantidad a ingresar</string>
+    <string name="notas">Notas de transferencia</string>
+    <string name="Agregar_nota">Agregar notas de transferencia(opcional)</string>
+    <string name="btn_ingresar">Ingresar Dinero</string>
+
+    <!-- RETIRAR DINERO -->
+    <string name="titulo_retirar">Retirar Dinero</string>
+    <string name="cantidad_retiro">Cantidad a retiro</string>
+    <string name="notas">Notas de transferencia</string>
+    <string name="Agregar_nota">Agregar notas de transferencia(opcional)</string>
+    <string name="btn_retirar">Retirar Dinero</string>
+
+    <!-- PERFIL -->
+    <string name="titulo_perfil">Mi perfil</string>
+    <string name="titular">Amanda Alkemy</string>
+    <string name="informacion">Mi Información</string>
+    <string name="tarjetas">Mis tarjetas</string>
+    <string name="opciones">Opciones</string>
+    <string name="ayuda">Centro de ayuda</string>
+
+</resources>
